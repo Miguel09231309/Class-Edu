@@ -1,0 +1,6 @@
+{
+  "name": "School Room & Management Hub",
+  "description": "Plataforma de gestão escolar com criação de salas físicas/virtuais, chamadas WebRTC simuladas, convites por link/QR, gamificação e controle de presença.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
